@@ -1,6 +1,6 @@
 # Hi, I'm Prajwal Anand 👋
 
-## 🚀 🚀 Analytics Engineering | SQL • Cloud Data Warehousing • Dimensional Modeling • BI
+## 🚀 Analytics Engineering | SQL • Cloud Data Warehousing • Dimensional Modeling • BI
 
 I design analytics-ready data systems that transform raw operational data into structured, scalable warehouse models.
 
