@@ -1,64 +1,62 @@
 # Hi, I'm Prajwal Anand 👋
 
-## 🚀 Data Analyst | SQL • Power BI • Python • Snowflake • AWS • Azure • GCP
+## 🚀 Analytics Engineering | SQL • Cloud Warehousing • Data Modeling • BI
 
-I build end-to-end data analytics solutions — from raw data ingestion and transformation to interactive dashboards and actionable business insights.
+I design analytics-ready data systems that transform raw operational data into structured, scalable warehouse models.
 
----
+With a background in customer support program management, I understand business processes deeply — and now specialize in translating those processes into dimensional models, ELT workflows, and cloud-based analytical architectures.
 
-## 🛠 Technical Expertise
-
-### 📊 Data Analysis & Business Intelligence
-- SQL (MSSQL, MySQL)
-- Power BI (DAX, Data Modeling, Time Intelligence)
-- Tableau
-- Excel (Advanced Formulas, Pivot Tables)
-
-### 🐍 Python & Data Processing
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- BeautifulSoup (Web Scraping)
-- scikit-learn (One-Hot Encoding, Label Encoding, Preprocessing)
-- Data Cleaning & Feature Engineering
-
-### ☁️ Cloud & Data Engineering
-- AWS (S3 Data Storage & Integration)
-- Microsoft Azure
-- Google Cloud Platform (BigQuery)
-- Snowflake (Data Warehousing, ELT Workflows)
-- SQL-Based Data Transformations
-- Data Warehouse Schema Design
-
-### 🤖 AI & Productivity
-- Prompt Engineering (Perplexity AI)
-- Workflow Optimization & Automation
+My work focuses on SQL-driven transformations, layered warehouse design (RAW → STAGING → CURATED), cohort modeling, time-series analysis, and semantic BI modeling.
 
 ---
 
-## 🔍 What I Build
+## 🧱 Analytics Engineering & Data Modeling
 
-- Cloud-based ELT pipelines (AWS/Azure/GCP → Snowflake/BigQuery → BI Tools)
-- Large-scale financial and risk analytics dashboards (250K+ records)
-- Advanced DAX models with YTD & YoY time intelligence
-- SQL-driven data cleaning and transformation workflows
-- Python-based analytical and feature engineering projects
-- Business-focused KPI modeling & interactive reporting
+- Dimensional Modeling (Star Schema)
+- Fact Table Grain Design
+- Surrogate Keys & Referential Integrity
+- Cohort & Retention Modeling
+- SQL-Based Transformation Pipelines
+- Window Functions & Time-Series Modeling
+- Warehouse Layering (RAW → STAGING → CURATED)
+
+## ☁️ Cloud Data Platforms
+
+- Azure SQL
+- Snowflake
+- Google BigQuery
+- AWS S3
+
+## Transformation & Querying
+
+- T-SQL
+- Standard SQL
+- CTE-Based Query Layering
+- Window Functions
+- Index Optimization
+
+## 📊 Semantic & BI Layer
+
+- Power BI (DAX, Time Intelligence)
+- Tableau (LOD Expressions)
+- Python (Pandas, Modular Pipelines)
 
 ---
 
-## 📂 Portfolio Highlights
+## 🚀 Selected Analytics Engineering Projects
 
-Currently curating and publishing flagship analytics projects including:
-
-- Loan Risk Analytics (255K+ records)
-- Multi-Cloud Data Warehouse Solutions
-- Advanced SQL Deep Dive Projects (CTEs & Window Functions)
-- Financial & Retail Performance Dashboards
-- Python-Based Feature Engineering & EDA
+- Designed and implemented a dimensional star schema warehouse in Azure SQL, including surrogate key modeling, fact grain control, referential integrity enforcement, and cohort retention logic.
+- Built a multi-layer Snowflake architecture (AWS S3 → RAW → STAGING → CURATED) with structured ELT transformations and scenario-based revenue impact modeling.
+- Developed a BigQuery analytical warehouse with separated transformation and reporting layers, creating executive-ready aggregated views for BI consumption.
+- Applied advanced SQL window functions (LAG, ROW_NUMBER, PERCENTILE_CONT) for time-series analysis, percentile modeling, and market segmentation in large transactional datasets.
+- Engineered a modular Python analytics pipeline with structured preprocessing, feature engineering, and validation logic to analyze and model airline pricing intelligence.
+- Implemented large-scale loan risk analytics modeling (255K+ records) using SQL transformations and time-intelligence logic to support portfolio-level decision analysis.
 
 Explore my repositories below 👇
+
+---
+
+## 
 
 ---
 
